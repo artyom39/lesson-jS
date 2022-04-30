@@ -118,9 +118,10 @@ users.forEach((el)=>{
 //     }
 //     return tr+"</tr>"
 // }
-// let l1 =document.body.childNodes;
-// let l2=document.body.children
-// console.log(l1);
-// console.log(l2);
-// console.dir(document.body)
+let l1 =document.body.childNodes;
+let l2=document.body.children
+console.log(l1);
+console.log(l2);
+console.dir(document.body)
 console.log("Barev");
+console.log(document.body)
